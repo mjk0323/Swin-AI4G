@@ -1,0 +1,8 @@
+name : Minjin Kim
+SID : 105686638
+Unit code : COS30002
+Task Number : Week1 Task1
+Date : 05/03/2025
+---------------------------------
+Issues
+- First time to use this tool so it was confusing how to complete my task

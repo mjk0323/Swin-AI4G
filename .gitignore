@@ -1,0 +1,14 @@
+# This is a comment. It is ignored. So are blank lines.
+
+# Add patterns to this files to tell git to ignore (not track) certain files, like temporary files.
+# Note - this only applies when adding files. If you already have files in the repo, they will still be included.
+
+# ignore this type of mac os/Windows files ...
+.DS_Store
+Thumbs.db
+
+# ignore byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+
+# add others as you go ...
